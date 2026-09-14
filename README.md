@@ -224,16 +224,19 @@ kainat-portfolio/
     ├── studygenius-1.png
     └── studygenius-2.png
 
-    🌱 Current Focus
 
-I'm currently focusing on:
+🌱 Current Focus
 
-Flutter application development
-AI integration in mobile applications
-Firebase-based applications
-Clean and responsive UI design
-Building practical software projects
-Improving my software development skills
+  I'm currently focusing on:
+
+   Flutter application development.
+   AI integration in mobile applications.
+   Firebase-based applications.
+   Clean and responsive UI design.
+   Building practical software projects.
+   Improving my software development skills.
+
+   
 🔗 Connect With Me
 
 GitHub:
@@ -247,17 +250,3 @@ kainaatzahra47@gmail.com
 
 Phone:
 0331 56984971
-
-⭐ About This Repository
-
-This repository contains the source code for my personal developer portfolio.
-
-It was built using:
-
-HTML
-CSS
-JavaScript
-
-The portfolio is deployed using GitHub Pages and is continuously updated as I build new projects and improve my development skills.
-
-<p align="center"> <strong>Designed & Developed by Kainat Zahra</strong> </p> <p align="center"> Flutter Developer • AI • Mobile Applications </p> ```
