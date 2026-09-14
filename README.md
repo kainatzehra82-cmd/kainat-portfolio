@@ -236,7 +236,7 @@ kainat-portfolio/
    Building practical software projects.
    Improving my software development skills.
 
-   
+
 🔗 Connect With Me
 
 GitHub:
@@ -248,5 +248,4 @@ https://www.linkedin.com/in/kainat-zahra-474b79355/
 Email:
 kainaatzahra47@gmail.com
 
-Phone:
-0331 56984971
+
